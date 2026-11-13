@@ -36,30 +36,4 @@ Los resultados experimentales evidencian una constelación recuperada con un Err
 
 ---
 
-## 📂 Estructura del Repositorio
 
-```text
-ComunicacionesII_Grupo8/
-│
-├── README.md
-├── Informe_Fase4_Grupo8.pdf              # Informe final en formato IEEE
-├── Decisión Técnica Ciega...pdf          # Ficha del diseño inicial (BPSK)
-│
-├── grc/                                  # Archivos ejecutables de GNU Radio
-│   ├── LAB_TX_16QAM_HackRF_MEJORADO.grc  # Flujograma transmisor
-│   └── LAB_RX_16QAM_HackRF_MEJORADO.grc  # Flujograma receptor
-│
-├── Pantallazos/                          # Evidencias visuales y video
-│   ├── 1.jpeg (Montaje físico)
-│   ├── 2.jpeg (Log de BER y CRC)
-│   ├── RX.png (Espectro)
-│   ├── RX_normal.png (Constelación recuperada)
-│   ├── curva_ber.png (Curva de desempeño)
-│   ├── flujograma1.jpeg (Captura del GRC Rx)
-│   ├── flujograma2.jpeg (Captura del GRC Tx)
-│   └── Video.mp4                         # Video de socialización
-│
-└── Carpeta de archivos necesarios.../    # Instrumentación suministrada
-    ├── BER_SDR_INSTRUMENTACION_BASE.grc
-    ├── e_EbN0_Sweep.py
-    └── e_BER_Curve.py
