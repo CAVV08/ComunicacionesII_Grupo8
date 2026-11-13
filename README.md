@@ -5,7 +5,7 @@
 * Kevin Santiago Contreras Araque (2205535)
 * **Universidad Industrial de Santander**
 
-📺 **Video de Socialización:** [Ver video](./Pantallazos/Video.mp4)
+📺 **Video de Socialización:** [Ver en YouTube](https://youtu.be/N-nEPbQD5SE)
 📄 **Informe Final (IEEE):** [Descargar PDF](./Informe_Fase4_Grupo8.pdf)
 
 ---
