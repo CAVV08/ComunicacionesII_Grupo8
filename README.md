@@ -74,8 +74,3 @@ Esquema simplificado; el flujograma completo está en el informe (figura 2) y en
 ## Uso de herramientas de inteligencia artificial
 
 Usamos un asistente de IA (Claude, de Anthropic) como apoyo para estructurar el informe en LaTeX, calcular y graficar las curvas teóricas de BER, redactar parte del texto y organizar este repositorio.
-
-
----
-
-*Última actualización: 12 de noviembre de 2026*
