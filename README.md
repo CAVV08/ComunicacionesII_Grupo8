@@ -3,7 +3,7 @@
 **Proyecto final de Comunicaciones II (27145) · Escuela E3T, Universidad Industrial de Santander · Grupo 8**
 Camilo Andrés Valcárcel Vargas (2185607) · Kevin Santiago Contreras Araque (2205535)
 
-| |
+| | |
 |---|---|
 | **Video de socialización** | [youtu.be/N-nEPbQD5SE](https://youtu.be/N-nEPbQD5SE) |
 | **Informe IEEE** | [KContreras-CValcarcel_Proyecto-Laboratorio_Com2.pdf](./KContreras-CValcarcel_Proyecto-Laboratorio_Com2.pdf) |
